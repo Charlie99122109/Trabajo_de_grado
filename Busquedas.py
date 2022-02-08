@@ -3,7 +3,6 @@ from encodings import utf_8
 import unidecode
 import os
 import nltk
-#import spacy
 from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
